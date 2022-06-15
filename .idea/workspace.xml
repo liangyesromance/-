@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="form-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c826c85-572a-42dc-814f-2a2591ec4731" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-boot/src/main/resources/db/migration/V1.0__init_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-boot/src/main/resources/db/migration/V1.1__create_book.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-boot/src/test/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-util/src/main/java/com/numerx/formutil/utils/JwtTokenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-web/src/test/java/BizFlowStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-web/src/test/java/BooleanMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-web/src/test/java/BoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-web/src/test/java/SerializableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-web/src/test/java/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-web/src/test/java/ThreadLocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-web/src/test/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tempFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/form-boot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/mapper/TestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/mapper/TestMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/service/ITestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/service/ITestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/service/impl/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/service/impl/TestServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/form-boot/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/src/main/resources/db/migration/V1.0.0__justpicform_base.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-boot/src/main/resources/mapper/testform/TestMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/form-boot/src/main/resources/mapper/testform/TestMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-util/target/classes/com/numerx/formutil/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/form-util/target/classes/com/numerx/formutil/CodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/form-web/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Jsp File" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZetHTmQNoorZdZmNDRBHw3N4tX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="smartform" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="b9d185c7-75dc-4918-956f-0fc31ab3d6f3" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31893167" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.numerx.formboot.trial.entity" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.numerx.formboot" />
+      <recent name="com.numerx.formutil" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\tmp2\smartform\form-boot\src\main\resources\db\migration" />
+      <recent name="E:\tmp2\smartform\form-boot\src\main\resources" />
+      <recent name="E:\tmp2\smartform\form-util\src\main\java\com\numerx\formutil" />
+      <recent name="E:\tmp2\smartform\form-web\src\main\resources\mapper" />
+      <recent name="E:\tmp2\smartform\form-util\src\main\java\com\numerx\formutil\sys" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.numerx.formutil.annotation" />
+      <recent name="com.numerx.formutil.redis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\tmp2\smartform\form-boot\src\main\resources\db\migration" />
+      <recent name="E:\tmp2\smartform\form-web\web\WEB-INF" />
+      <recent name="E:\tmp2\smartform\form-web\src\main\resources\spring" />
+      <recent name="E:\tmp2\smartform\form-web\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SerializableDemo">
+    <configuration name="BooleanMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanMainTest" />
+      <module name="form-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoxTest" />
+      <module name="form-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.numerx.formutil.Demo" />
+      <module name="formutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.numerx.formutil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SerializableDemo" />
+      <module name="form-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="form-boot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/fd0607a8-d54d-46e7-b0ee-8a1da075d355/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="FormBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="form-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.numerx.formboot.FormBootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://127.0.0.1:8080/formweb/heroform/hero" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="form-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/formweb" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_smartform" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54488" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="form-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.BooleanMainTest" />
+      <item itemvalue="Application.BoxTest" />
+      <item itemvalue="Application.SerializableDemo" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Database Script.console.sql" />
+      <item itemvalue="Spring Boot.FormBootApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.console.sql" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SerializableDemo" />
+        <item itemvalue="Application.BoxTest" />
+        <item itemvalue="Application.BooleanMainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c826c85-572a-42dc-814f-2a2591ec4731" name="Default Changelist" comment="" />
+      <created>1565505476587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565505476587</updated>
+      <workItem from="1565505481781" duration="21312000" />
+      <workItem from="1565579149964" duration="10769000" />
+      <workItem from="1565624003065" duration="7904000" />
+      <workItem from="1565696804492" duration="1333000" />
+      <workItem from="1565701988942" duration="35643000" />
+      <workItem from="1565793893487" duration="2952000" />
+      <workItem from="1565797373098" duration="7456000" />
+      <workItem from="1565870325162" duration="49793000" />
+      <workItem from="1566820064655" duration="3555000" />
+      <workItem from="1567003344189" duration="556000" />
+      <workItem from="1567222241101" duration="2590000" />
+      <workItem from="1567353427356" duration="557000" />
+      <workItem from="1567429497422" duration="525000" />
+      <workItem from="1568374577355" duration="542000" />
+      <workItem from="1568439553918" duration="588000" />
+      <workItem from="1568513073573" duration="568000" />
+      <workItem from="1568528475505" duration="555000" />
+      <workItem from="1568795748538" duration="568000" />
+      <workItem from="1569157012600" duration="545000" />
+      <workItem from="1569333058395" duration="591000" />
+      <workItem from="1569409916147" duration="554000" />
+      <workItem from="1569661729324" duration="560000" />
+      <workItem from="1569755245281" duration="1132000" />
+      <workItem from="1570097578738" duration="479000" />
+      <workItem from="1570177707360" duration="1148000" />
+      <workItem from="1570437628401" duration="1180000" />
+      <workItem from="1570626682205" duration="184000" />
+      <workItem from="1570716498087" duration="516000" />
+      <workItem from="1571066622408" duration="1816000" />
+      <workItem from="1571241120977" duration="884000" />
+      <workItem from="1571309280665" duration="515000" />
+      <workItem from="1571408689472" duration="543000" />
+      <workItem from="1571593983440" duration="1245000" />
+      <workItem from="1571595952180" duration="881000" />
+      <workItem from="1571619515943" duration="1274000" />
+      <workItem from="1571621939560" duration="162000" />
+      <workItem from="1574960855929" duration="8969000" />
+      <workItem from="1575191171900" duration="550000" />
+      <workItem from="1575283676149" duration="1346000" />
+      <workItem from="1575353685484" duration="633000" />
+      <workItem from="1575386356629" duration="892000" />
+      <workItem from="1575387332077" duration="599000" />
+      <workItem from="1575454965140" duration="1751000" />
+      <workItem from="1575790941475" duration="551000" />
+      <workItem from="1575794393557" duration="558000" />
+      <workItem from="1575797347116" duration="1156000" />
+      <workItem from="1575888054618" duration="848000" />
+      <workItem from="1575986967490" duration="519000" />
+      <workItem from="1576320324524" duration="439000" />
+      <workItem from="1576336852384" duration="1086000" />
+      <workItem from="1577016090650" duration="530000" />
+      <workItem from="1577097374454" duration="435000" />
+      <workItem from="1577206766436" duration="202000" />
+      <workItem from="1585212136866" duration="1313000" />
+      <workItem from="1585758799596" duration="596000" />
+      <workItem from="1585829043699" duration="2409000" />
+      <workItem from="1585846015354" duration="1639000" />
+      <workItem from="1585969908267" duration="1286000" />
+      <workItem from="1585974445517" duration="5436000" />
+      <workItem from="1586158029725" duration="152000" />
+      <workItem from="1586276852152" duration="11000" />
+      <workItem from="1586277147253" duration="595000" />
+      <workItem from="1586452850710" duration="499000" />
+      <workItem from="1586543906968" duration="1174000" />
+      <workItem from="1586596529470" duration="591000" />
+      <workItem from="1586756379788" duration="683000" />
+      <workItem from="1587453526493" duration="472000" />
+      <workItem from="1587558222792" duration="986000" />
+      <workItem from="1587656527095" duration="1213000" />
+      <workItem from="1587794961436" duration="1229000" />
+      <workItem from="1588834260959" duration="9842000" />
+      <workItem from="1588946045379" duration="1951000" />
+      <workItem from="1588948028955" duration="5598000" />
+      <workItem from="1588955321687" duration="1571000" />
+      <workItem from="1588956906609" duration="7075000" />
+      <workItem from="1589043834256" duration="150000" />
+      <workItem from="1589044712029" duration="566000" />
+      <workItem from="1589075854727" duration="19805000" />
+      <workItem from="1589293430204" duration="1191000" />
+      <workItem from="1589367765618" duration="2217000" />
+      <workItem from="1589441683171" duration="632000" />
+      <workItem from="1589443879141" duration="1602000" />
+      <workItem from="1589895845375" duration="6865000" />
+      <workItem from="1590604740424" duration="875000" />
+      <workItem from="1591190637503" duration="610000" />
+      <workItem from="1591192314964" duration="654000" />
+      <workItem from="1592746120513" duration="1354000" />
+      <workItem from="1592911709312" duration="647000" />
+      <workItem from="1593516401821" duration="1351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="218" key="#Inspections" timestamp="1589206471471">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="555" y="218" key="#Inspections/0.0.1858.1080@0.0.1858.1080" timestamp="1589206471471" />
+    <state x="409" y="114" key="#Project_Structure" timestamp="1589045027967">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="409" y="114" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1589045027967" />
+    <state x="354" y="612" key="#Tomcat_Server" timestamp="1588834395442">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="354" y="612" key="#Tomcat_Server/0.0.1858.1080@0.0.1858.1080" timestamp="1588834395442" />
+    <state x="34" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589076435566">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="34" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1589076435566" />
+    <state x="457" y="448" key="#com.intellij.ide.util.MemberChooser" timestamp="1589906937328">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="457" y="448" key="#com.intellij.ide.util.MemberChooser/0.0.1842.1080@0.0.1842.1080" timestamp="1589906937328" />
+    <state x="1228" y="390" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1589041599661">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1228" y="390" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1589041599661" />
+    <state x="309" y="524" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588938174339">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="309" y="524" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1588938174339" />
+    <state x="549" y="218" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589041130237">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="549" y="218" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1589041130237" />
+    <state x="1169" y="342" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1589041694957">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1169" y="342" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1589041694957" />
+    <state x="625" y="187" key="#console.sql" timestamp="1589077205141">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="625" y="187" key="#console.sql/0.0.1858.1080@0.0.1858.1080" timestamp="1589077205141" />
+    <state x="1206" y="364" key="FileChooserDialogImpl" timestamp="1592918164749">
+      <screen x="0" y="0" width="1796" height="1080" />
+    </state>
+    <state x="1206" y="364" key="FileChooserDialogImpl/0.0.1796.1080@0.0.1796.1080" timestamp="1592918164749" />
+    <state x="1237" y="364" key="FileChooserDialogImpl/0.0.1842.1080@0.0.1842.1080" timestamp="1589445546722" />
+    <state x="1248" y="364" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1589089742777" />
+    <state width="1340" height="275" key="GridCell.Tab.0.bottom" timestamp="1589908270672">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1340" height="275" key="GridCell.Tab.0.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1589908270672" />
+    <state width="883" height="306" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1589368842854" />
+    <state width="1340" height="275" key="GridCell.Tab.0.center" timestamp="1589908270672">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1340" height="275" key="GridCell.Tab.0.center/0.0.1842.1080@0.0.1842.1080" timestamp="1589908270672" />
+    <state width="883" height="306" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1589368842854" />
+    <state width="1340" height="275" key="GridCell.Tab.0.left" timestamp="1589908270671">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1340" height="275" key="GridCell.Tab.0.left/0.0.1842.1080@0.0.1842.1080" timestamp="1589908270671" />
+    <state width="883" height="306" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1589368842854" />
+    <state width="1340" height="275" key="GridCell.Tab.0.right" timestamp="1589908270672">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1340" height="275" key="GridCell.Tab.0.right/0.0.1842.1080@0.0.1842.1080" timestamp="1589908270672" />
+    <state width="883" height="306" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1589368842854" />
+    <state width="1815" height="307" key="GridCell.Tab.1.bottom" timestamp="1589205013558">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="307" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1589205013558" />
+    <state width="1815" height="307" key="GridCell.Tab.1.center" timestamp="1589205013558">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="307" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1589205013558" />
+    <state width="1815" height="307" key="GridCell.Tab.1.left" timestamp="1589205013558">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="307" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1589205013558" />
+    <state width="1815" height="307" key="GridCell.Tab.1.right" timestamp="1589205013558">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="307" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1589205013558" />
+    <state width="1249" height="287" key="GridCell.Tab.2.bottom" timestamp="1589043796899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="287" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1589043796899" />
+    <state width="1249" height="287" key="GridCell.Tab.2.center" timestamp="1589043796899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="287" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1589043796899" />
+    <state width="1249" height="287" key="GridCell.Tab.2.left" timestamp="1589043796899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="287" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1589043796899" />
+    <state width="1249" height="287" key="GridCell.Tab.2.right" timestamp="1589043796899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="287" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1589043796899" />
+    <state x="459" y="195" key="Maven.ArtifactSearchDialog" timestamp="1589040624466">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="459" y="195" key="Maven.ArtifactSearchDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1589040624466" />
+    <state x="1007" y="246" key="NewModule_or_Project.wizard" timestamp="1592746817814">
+      <screen x="0" y="0" width="1796" height="1080" />
+    </state>
+    <state x="1007" y="246" key="NewModule_or_Project.wizard/0.0.1796.1080@0.0.1796.1080" timestamp="1592746817814" />
+    <state x="1033" y="246" key="NewModule_or_Project.wizard/0.0.1842.1080@0.0.1842.1080" timestamp="1589444796742" />
+    <state x="791" y="196" key="SettingsEditor" timestamp="1593517002326">
+      <screen x="0" y="0" width="1796" height="1080" />
+    </state>
+    <state x="791" y="196" key="SettingsEditor/0.0.1796.1080@0.0.1796.1080" timestamp="1593517002326" />
+    <state x="798" y="196" key="SettingsEditor/0.0.1812.1080@0.0.1812.1080" timestamp="1591196033619" />
+    <state x="818" y="196" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1589076765814" />
+    <state x="759" y="427" width="340" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1589114759829">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="759" y="427" width="340" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1858.1080@0.0.1858.1080" timestamp="1589114759829" />
+    <state x="772" y="311" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1589124819076">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="772" y="311" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1589124819076" />
+    <state x="631" y="142" width="596" height="795" key="find.popup" timestamp="1589121837230">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="631" y="142" width="596" height="795" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1589121837230" />
+    <state x="631" y="327" key="git4idea.merge.GitPullDialog" timestamp="1585830859305">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="631" y="327" key="git4idea.merge.GitPullDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1585830859305" />
+    <state x="579" y="570" key="refactoring.ChangeSignatureDialog" timestamp="1589901387291">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="579" y="570" key="refactoring.ChangeSignatureDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1589901387291" />
+    <state x="584" y="570" key="refactoring.ChangeSignatureDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1589204321620" />
+    <state x="1210" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1589901553663">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="1210" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1842.1080@0.0.1842.1080" timestamp="1589901553663" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-util/src/main/java/com/numerx/formutil/CodeGenerator.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/controller/TestController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-engine/src/main/java/com/numerx/formapi/core/controller/AppController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/blogform/controller/TestController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-web/src/main/java/com/numerx/formweb/common/BaseController.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-web/src/main/java/com/numerx/formweb/heroform/service/impl/HeroServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.2/mybatis-plus-core-3.1.2.jar!/com/baomidou/mybatisplus/core/override/MybatisMapperProxy.class</url>
+          <line>31</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-boot/src/main/java/com/numerx/formboot/testform/service/impl/TestServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-web/src/main/java/com/numerx/formweb/heroform/controller/HeroController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-web/src/main/java/com/numerx/formweb/heroform/controller/HeroController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-util/src/main/java/com/numerx/formutil/weixin/util/MessageUtil.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/form-util/src/main/java/com/numerx/formutil/weixin/util/MessageUtil.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/form-web/src/main/java/com/numerx/formweb/common/BaseController.java</url>
+          <line>15</line>
+          <properties class="com.numerx.formweb.common.BaseController" method="index">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="MessageUtil.parseXml(request)" />
+        <watch expression="parseXml(request)" />
+        <watch expression="SAXReader reader = new SAXReader()" />
+        <watch expression="reader.read" />
+        <watch expression="inputStream" />
+        <watch expression="((CoyoteInputStream)inputStream).ib" custom="org.apache.catalina.connector.CoyoteInputStream" />
+        <watch expression="reader.read(new BufferedReader(inputStream))" language="JAVA" />
+        <watch expression="map" />
+      </configuration>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="getS()" />
+        <watch expression="getS().selectBlogPage(new Page&lt;Map&lt;Object,Object&gt;&gt;(page,size))" />
+        <watch expression="getS().selectBlogPage(new Page&lt;Map&lt;Object,Object&gt;&gt;(page,size))" />
+        <watch expression="getS().selectBlogPage" />
+        <watch expression="var4" />
+        <watch expression="fci" />
+        <watch expression="T&gt;" />
+        <watch expression="var4" language="JAVA" />
+        <watch expression="s.list" />
+        <watch expression="baseMapper" />
+        <watch expression="this.baseMapper.selectList" />
+        <watch expression="resolver.getResources(&quot;classpath*:/mapper/**/*.xml;classpath*:com/gitee/sunchenbin/mybatis/actable/mapping/*/*.xml&quot;)" />
+        <watch expression="resolver.getResources(&quot;classpath*:/mapper/**/*.xml;classpath*:com/gitee/sunchenbin/mybatis/actable/mapping/*/*.xml&quot;)" />
+        <watch expression=" getS()" />
+        <watch expression="testMapper" language="JAVA" />
+        <watch expression="((MybatisMapperProxy)this.h).methodCache" custom="java.lang.reflect.Proxy,com.baomidou.mybatisplus.core.override.MybatisMapperProxy" />
+        <watch expression="method" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="focList" />
+        <watch expression="pc.getModuleName()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>reader.read(new BufferedReader(inputStream))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reader.read(new BufferedReader(new InputStreamReader(new FileInputStream(new File(filename)),&quot;UTF-8&quot;)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>var4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
